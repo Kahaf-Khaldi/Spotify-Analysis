@@ -89,12 +89,4 @@ This Power BI Dashboard offers a comprehensive analysis of Spotify album, artist
 
 ---
 
-## Prerequisites
-
-- Power BI Desktop (latest version preferred)  
-- Spotify listening data export or API connection  
-
-
----
-
 Unlock the power of your Spotify listening data with actionable visual insights!
